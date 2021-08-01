@@ -2,11 +2,14 @@
 
 This is a Shinyapp prgram in R which I developed to process my bank trasactions and analyse my expenses and trends. I am sharing here for public to use or improve and share. 
 
-Intruction:
+In first step, you can check new transaction files for categories and keywords. if new keywords needed to be added, you can add the keywords in the categories.csv file and upload your transactions again. Once you're happy with the keywords and allocated categories, click Merge to merge the new files with existing combined transaction file from previous analysis. This merged file is then loaded by Reporting.R to show you analysis graphs.  
+
+
+Instruction:
 
 1- open preprocessing.R; then: 
 
-  a- add your new transaction files; double check categories and accept if it is ok, otherwise you can update 'category.csv'; note that new fields may not have \' char.
+  a- add your new transaction files (one-by-one); double check categories and accept if it is ok, otherwise you can update 'category.csv'; (note that new fields may not have \' char. in categories.csv)
   
   b- then click 'Merge the files', the file will be 'MasterFile_new'. if all ok, rename it to 'MasterFile'.
   
