@@ -3,6 +3,7 @@
 This is a Shinyapp prgram in R which I developed to process my bank trasactions and analyse my expenses and trends. I am sharing here for public to use or improve and share. 
 
 Intruction:
+
 1- open preprocessing.R; then: 
 
   a- add your new transaction files; double check categories and accept if it is ok, otherwise you can update 'category.csv'; note that new fields may not have \' char.
