@@ -13,4 +13,6 @@ Instruction:
   
   b- then click 'Merge the files', the file will be 'MasterFile_new'. if all ok, rename it to 'MasterFile'.
   
-2- Then stop preprocessing.R; and run reporting.R. This report uses 'MasterFile.csv'. There are 5 major report types in this app. Enjoy!
+2- Then stop preprocessing.R; and run reporting.R. This report uses 'MasterFile.csv'. There are 5 major report types in this app. 
+
+I hope it is interesting for someone.
